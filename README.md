@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![](https://visitor-badge.glitch.me/badge?page_id=nikramakrishnan.nikramakrishnan)
+
+- 🔭 I’m currently working on Web3 projects
+
 <!--
 **nikramakrishnan/nikramakrishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
